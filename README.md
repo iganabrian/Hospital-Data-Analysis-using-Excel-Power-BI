@@ -46,11 +46,16 @@ The age of 50 and above has the highest billing amount.
 Johnson PLC has the highest billing amount.
 
 ## Dashboard
+-<a href= "https://github.com/iganabrian/Hospital-Data-Analysis-using-Excel-Power-BI/blob/main/Dashboard.PNG">Dashboard<a>
 
 ## Insights
+-<a href= "https://github.com/iganabrian/Hospital-Data-Analysis-using-Excel-Power-BI/blob/main/Insights.PNG">Insights<a>
+
+## Power BI Report/Dashboard
+-<a href= "https://github.com/iganabrian/Hospital-Data-Analysis-using-Excel-Power-BI/blob/main/Dashboard.pbix">Power BI Report<a>
+
 
 ## Dataset used
-
 -<a href= "https://www.kaggle.com/datasets/prasad22/healthcare-dataset">Dataset<a>
 
 
